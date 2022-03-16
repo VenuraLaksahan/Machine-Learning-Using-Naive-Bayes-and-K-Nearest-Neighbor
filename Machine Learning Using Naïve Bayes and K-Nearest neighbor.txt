@@ -1,0 +1,4 @@
+Machine Learning Using Naïve Bayes and K-Nearest neighbor.
+
+Python code for Naïve Bayes and K-nearest neighbor algorithms.
+Read a file with play tennis dataset and classify them using the Naïve Bayes and K-nearest neighbor algorithms.
